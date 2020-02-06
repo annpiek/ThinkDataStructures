@@ -9,7 +9,7 @@ public class ListClientExample {
 
 	@SuppressWarnings("rawtypes")
 	public ListClientExample() {
-		list = new LinkedList();
+		list = new ArrayList();
 	}
 
 	@SuppressWarnings("rawtypes")
